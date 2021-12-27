@@ -1,18 +1,18 @@
-hbbtv.kabeleins.de
-hbbtv-trgt.redbutton.de
-redbutton-adproxy-lb-prod.redbutton.de
-backend.redbutton.de
-hbbtv-libraries.redbutton.de
-hbbtv.redbutton.de
-bf59340abp.bf.dynatrace.com
-stats.hbbtv.smartclip.net
-p-hbbtv.superrtl.de
-scheduler.hbbtv.smartclip.net
-hbbtv.superrtl.de
-cdn.digitaltext.vox.de
-cdn.digitaltext.rtl.de
-hbbtv.rtl2.de
-www.rtl2.de
-p-hbbtv-proxy.rtl2apps.de
-hbbtv.sport1.de
-cdn.hbbtv.smartclip.net
+0.0.0.0 hbbtv.kabeleins.de
+0.0.0.0 hbbtv-trgt.redbutton.de
+0.0.0.0 redbutton-adproxy-lb-prod.redbutton.de
+0.0.0.0 backend.redbutton.de
+0.0.0.0 hbbtv-libraries.redbutton.de
+0.0.0.0 hbbtv.redbutton.de
+0.0.0.0 bf59340abp.bf.dynatrace.com
+0.0.0.0 stats.hbbtv.smartclip.net
+0.0.0.0 p-hbbtv.superrtl.de
+0.0.0.0 scheduler.hbbtv.smartclip.net
+0.0.0.0 hbbtv.superrtl.de
+0.0.0.0 cdn.digitaltext.vox.de
+0.0.0.0 cdn.digitaltext.rtl.de
+0.0.0.0 hbbtv.rtl2.de
+0.0.0.0 www.rtl2.de
+0.0.0.0 p-hbbtv-proxy.rtl2apps.de
+0.0.0.0 hbbtv.sport1.de
+0.0.0.0 cdn.hbbtv.smartclip.net
